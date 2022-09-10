@@ -4,7 +4,7 @@ const StartConversation = () => {
   return (
     <section id="conversation">
       <div className="container justify-center items-center flex flex-row px-6 mx-auto mt-16 mb-16 space-y-10 md:space-y-0  space-x-0 md:space-x-10 md:flex-col">
-        <div className="p-10 w-2/3 flex items-center flex-col border-2 border-dotted rounded-lg border-[#27AE60]">
+        <div className="p-10 w-full xl:w-2/3 flex items-center flex-col border-2 border-dotted rounded-lg border-[#27AE60]">
           <h2 className="text-3xl text-center font-bold text-[#10002B] mb-8">
             ¿Interesad
             <span
