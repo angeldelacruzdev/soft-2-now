@@ -26,17 +26,18 @@ const Navbar = () => {
             <Link href="#works">
               <a className="text-[#10002B] hover:text-[#27AE60]">Productos</a>
             </Link>
-            {/* <Link href="">
-              <a className="text-[#10002B] hover:text-[#27AE60]">Marketplace</a>
-            </Link> */}
+
             <Link href="#pricing">
               <a className="text-[#10002B] hover:text-[#27AE60]">Precios</a>
             </Link>
           </div>
 
-          <Link href="register">
-            <a className="hidden p-3 px-6 pt-2 text-white bg-[#27AE60] rounded-full self-baseline transition hover:bg-green-700 md:block">
-              Empezar
+          <Link href="https://www.instagram.com/angeldelacruz.dev/">
+            <a
+              target="_blank"
+              className="hidden p-3 px-6 pt-2 text-white bg-[#27AE60] rounded-full self-baseline transition hover:bg-green-700 md:block"
+            >
+              Contactar
             </a>
           </Link>
 
@@ -67,12 +68,9 @@ const Navbar = () => {
             <Link href="#works">
               <a className="text-white hover:text-[#27AE60]">Productos</a>
             </Link>
-            {/* <a href="" className="text-white hover:text-[#27AE60]">
-              Marketplace
-            </a> */}
-            <a href="" className="text-white hover:text-[#27AE60]">
-              Precios
-            </a>
+            <Link href="#pricing">
+              <a className="text-white hover:text-[#27AE60]">Precios</a>
+            </Link>
           </div>
         </div>
       </nav>

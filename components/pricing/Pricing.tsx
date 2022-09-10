@@ -8,7 +8,6 @@ const Pricing = () => {
           <h2 className="text-white text-2xl font-roboto">
             Los precios se pueden discutir poniéndose en contacto con nosotros.
           </h2>
-          <div className=""></div>
         </div>
       </div>
     </section>

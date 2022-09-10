@@ -17,9 +17,9 @@ const HeroSection = () => {
               maravillosamente simples y amamos lo que hacemos.
             </p>
             <div className="flex justify-center md:justify-start">
-              <Link href="register">
-                <a className="p-3 px-6 pt-2  text-white bg-[#27AE60] rounded-full self-baseline hover:bg-green-700 transition">
-                  Empezar
+              <Link href="https://www.instagram.com/angeldelacruz.dev/">
+                <a target="_blank" className="p-3 px-6 pt-2  text-white bg-[#27AE60] rounded-full self-baseline hover:bg-green-700 transition">
+                  Contactar
                 </a>
               </Link>
             </div>

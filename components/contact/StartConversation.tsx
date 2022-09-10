@@ -13,8 +13,8 @@ const StartConversation = () => {
             Siempre estamos abiertos a discutir el diseño de productos o las
             oportunidades de asociación.
           </p>
-          <Link href="">
-            <a className="m-w-48 pt-4 pb-4 bg-[#27AE60] text-center pr-2 pl-2 rounded text-white font-bol">
+          <Link href="https://api.whatsapp.com/send?phone=18092107878">
+            <a target="_blank" className="m-w-48 pt-4 pb-4 bg-[#27AE60] text-center pr-2 pl-2 rounded text-white font-bol">
               Iniciar una conversación
             </a>
           </Link>
