@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import AboutSection from "../components/about/AboutSection";
 import StartConversation from "../components/contact/StartConversation";
-import Footer from "../components/footer/Footer";
+
 import HeroSection from "../components/hero/HeroSection";
 import { Layout } from "../components/layout";
 import Pricing from "../components/pricing/Pricing";
